@@ -39,7 +39,7 @@ github などでブランチをきる基準などを定義します。
 
 github project が作成された。
 これは trello などのタスク管理アプリと同じようにカンバン(タスク)を追加していくことができる。
-![add github project](images/github-project.png)
+![add github project](images/github-projects.png)
 
 ## タスクを追加し、issue に変換する
 
